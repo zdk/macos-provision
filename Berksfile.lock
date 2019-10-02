@@ -1,0 +1,8 @@
+DEPENDENCIES
+  chef-sugar (~> 5.0)
+  macos (~> 3.0.8)
+
+GRAPH
+  chef-sugar (5.0.4)
+  macos (3.0.8)
+    chef-sugar (~> 5.0)
